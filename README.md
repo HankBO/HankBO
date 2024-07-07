@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a 2-year developer. I used to be a data analyst.
+- 👋 Hi, I’m a 3-year developer. I used to be a data analyst.
 - 👀 I learned computer science by myself. 
 - 👨‍💻 Involved 1.company projects: AI(CV) end-to-end service, Python Fintech BI library; 2.side project: VSCode Extension for Stata Language
 - 🌱 I’m currently learning Java, Typescript
