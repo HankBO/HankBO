@@ -3,7 +3,6 @@
 - 👨‍💻 Involved company projects: AI(CV) end-to-end service, Python Fintech BI library;
 - 🌱 I often use Python, Java, Typescript
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me: bohaihbo@163.com
 
 ![Hai's GitHub stats](https://github-readme-stats.vercel.app/api?username=HankBO)
 
