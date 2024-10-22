@@ -1,7 +1,7 @@
 - 👋 Hi, I’m a 3-year developer. I used to be a data analyst.
 - 👀 I learned computer science by myself. 
 - 👨‍💻 Involved company projects: AI(CV) end-to-end service, Python Fintech BI library;
-- 🌱 I’m currently learning Java, Typescript
+- 🌱 I often use Python, Java, Typescript
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: bohaihbo@163.com
 
