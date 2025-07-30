@@ -1,5 +1,5 @@
-- 👋 Hi, I’m a 3-year developer. I used to be a data analyst.
-- 👀 I learned computer science by myself. 
+- 👋 Hi, I’m a 3-year software engineer with a MSc degree in Computer Science.
+- 👀 I used to be a data analyst. I made my career transition by self-learning. 
 - 👨‍💻 Involved company projects: AI(CV) end-to-end service, Python Fintech BI library;
 - 🌱 I often use Python, Java, Typescript
 - 💞️ I’m looking to collaborate on open source projects
